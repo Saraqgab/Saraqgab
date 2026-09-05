@@ -16,16 +16,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,arduino,vscode" />
 </p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Saraqqab&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraqqab&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saraqqab&theme=tokyonight&hide_border=true" />
-</p>
